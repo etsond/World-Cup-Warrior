@@ -21,7 +21,7 @@ The simulation will prompt you to enter the number of teams you want to include 
 
 At the end of the tournament, the winner will be declared, and the results of each match will be displayed to the user.
 
-### credits
+### Credits
 codeBlock https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
 
 ### License
