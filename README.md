@@ -1,4 +1,4 @@
-# FIFA Simulation
+# World Cup Warrior
 This project is a FIFA World Cup simulation implemented in Python. The simulation generates a tournament bracket based on the number of teams specified, and simulates each match using a basic algorithm to determine the winner. The results of each match are displayed to the user, and at the end of the tournament, the winner is declared.
 
 ## Installation
